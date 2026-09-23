@@ -75,7 +75,7 @@ For example, the dashboard can be used to investigate whether the average income
 
 ### Dashboard Preview
 
-!\[Excel Bike Purchase Dashboard](Screenshot%20%2831%29.png)
+!\[Excel Bike Purchase Dashboard](Dashboard.png)
 
 ## Key Skills Demonstrated
 
