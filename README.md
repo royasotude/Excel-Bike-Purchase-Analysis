@@ -1,3 +1,4 @@
+
 # Excel Bike Purchase Analysis Dashboard
 
 ## Project Overview
@@ -75,7 +76,7 @@ For example, the dashboard can be used to investigate whether the average income
 
 ### Dashboard Preview
 
-!\[Excel Bike Purchase Dashboard](Dashboard.png)
+<img width="2146" height="1499" alt="Dashboard" src="https://github.com/user-attachments/assets/9d854fc8-6cc0-483e-b492-1a2d40433929" />
 
 ## Key Skills Demonstrated
 
